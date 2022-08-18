@@ -1,3 +1,5 @@
 <?php
-private class geraPagamentoPicPay{}
+private class gerarPagamentoPicPay{
+
+}
 ?>
